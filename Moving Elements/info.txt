@@ -1,1 +1,1 @@
-
+This is just an background animation that can be used in any Web projects
