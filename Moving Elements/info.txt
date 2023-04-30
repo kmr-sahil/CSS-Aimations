@@ -1,1 +1,3 @@
 This is just an background animation that can be used in any Web projects
+
+No framework is been used here it is pure CSS
